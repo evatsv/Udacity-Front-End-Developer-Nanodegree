@@ -11,4 +11,4 @@ List of projects developed during the course.
 | [✅ Feed Reader Testing](https://github.com/evatsv/Feed-reader-test)    |2019    |
 | [🍕 Restaurant Reviews](https://github.com/evatsv/mws-restaurant-stage-1)    |2019|
 
-## Bonus
+
