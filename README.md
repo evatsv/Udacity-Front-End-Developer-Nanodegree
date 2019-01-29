@@ -3,7 +3,7 @@ List of projects developed during the course.
 
 ## Projects
 
-| Projects                    | Deadline         |
+| Projects                    | Date         |
 | ----------------------------|------------------|
 | [🧓 Build a Portfolio Site](https://github.com/evatsv/Portfolio-site)   | 2018   |
 | [💊 Memory Game](https://github.com/evatsv/Memory-game)                 | 2018    |
